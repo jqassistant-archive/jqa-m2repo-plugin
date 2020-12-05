@@ -46,7 +46,7 @@
         <jqa-plugin-common.version>1.10.0-SNAPSHOT</jqa-plugin-common.version>
         <mavenVersion>3.5.0</mavenVersion>
         <aetherVersion>1.1.0</aetherVersion>
-        <mavenResolverVersion>1.4.2</mavenResolverVersion>
+        <mavenResolverVersion>1.6.1</mavenResolverVersion>
         <wagonVersion>3.2.0</wagonVersion>
         <mavenIndexerVersion>6.0.0</mavenIndexerVersion>
         <luceneVersion>5.5.5</luceneVersion>
@@ -288,7 +288,7 @@
         </dependency>
         <dependency>
             <groupId>org.hamcrest</groupId>
-            <artifactId>java-hamcrest</artifactId>
+            <artifactId>hamcrest</artifactId>
         </dependency>
         <dependency>
             <groupId>org.slf4j</groupId>
